@@ -27,8 +27,8 @@
     "url": "https://github.com/beishangxiangyou/lerna-vue-demo/issues"
   },
   "dependencies": {
-    "@my-vue/compiler-dom": "^0.0.0",
-    "@my-vue/runtime-dom": "^0.0.0",
-    "@my-vue/shared": "^0.0.0"
+    "@my-vue/compiler-dom": "^0.0.1",
+    "@my-vue/runtime-dom": "^0.0.1",
+    "@my-vue/shared": "^0.0.1"
   }
 }
