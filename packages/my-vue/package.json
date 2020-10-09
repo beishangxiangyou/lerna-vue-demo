@@ -1,6 +1,6 @@
 {
   "name": "my-vue2",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "> TODO: description",
   "author": "zuomiaoshun <zuomiaoshun@pcuu.com>",
   "homepage": "https://github.com/beishangxiangyou/lerna-vue-demo/tree/master/packages/my-vue#readme",
@@ -27,8 +27,8 @@
     "url": "https://github.com/beishangxiangyou/lerna-vue-demo/issues"
   },
   "dependencies": {
-    "@my-vue/compiler-dom": "^0.0.2",
-    "@my-vue/runtime-dom": "^0.0.2",
-    "@my-vue/shared": "^0.0.2"
+    "@my-vue/compiler-dom": "^0.0.3",
+    "@my-vue/runtime-dom": "^0.0.3",
+    "@my-vue/shared": "^0.0.3"
   }
 }
